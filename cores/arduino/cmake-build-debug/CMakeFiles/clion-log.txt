@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /opt/arduino-1.8.5/hardware/arduino/avr/cores/arduino
